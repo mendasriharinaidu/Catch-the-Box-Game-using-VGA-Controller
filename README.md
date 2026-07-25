@@ -30,7 +30,7 @@ This project implements a complete game engine in hardware, where the player con
 
 <img width="4096" height="2302" alt="catch_the_box_img1" src="https://github.com/user-attachments/assets/b74c3144-0f0e-46cd-88f0-9fc4905ec8ed" />
 
---
+---
 
 **Figure 2. Vivado Integrated Logic Analyzer (ILA) captures showing real-time verification of score updates and game-over detection during FPGA execution**
 
